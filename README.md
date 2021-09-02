@@ -11,9 +11,15 @@
 <a href="https://www.w3schools.com/nodejs/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a>  
   
+<a href="https://expressjs.com/pt-br/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="javascript" width="40" height="40"/></a>  
+  
 <a href="https://www.w3schools.com/python/default.asp" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
+  
 <a href="https://docs.mongodb.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a>    
 
