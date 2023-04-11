@@ -5,6 +5,12 @@
 
 <div style="display: inline_block">
   
+<a href="https://www.w3schools.com/java/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a>
+  
+<a href="https://docs.spring.io/spring-framework/docs/current/reference/html/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  
 <a href="https://www.w3schools.com/js/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 
@@ -22,9 +28,6 @@
   
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  
-<a href="https://www.w3schools.com/java/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a>
   
 </div>
 
