@@ -34,7 +34,5 @@
 <hr>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/marcusvinysilva)
-[<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/marcusviny)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcusvinysilva)
 
 ![Snake animation](https://github.com/marcusvinysilva/marcusvinysilva/blob/output/github-contribution-grid-snake.svg)
